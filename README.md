@@ -1,4 +1,5 @@
 # 💜 Priya Sharma — Personal Portfolio
+🌐 **Live Portfolio:** (https://warm-salmiakki-2ce958.netlify.app/)
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, education, and experience as a Computer Science Engineering student passionate about technology, web development, and Artificial Intelligence.
 
